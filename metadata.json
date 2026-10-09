@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Luxury Fashion & Lifestyle Store",
+  "description": "Premium multi-category fashion e-commerce store with real customer shopping journey and complete merchant admin dashboard for inventory, orders, payments, and discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
